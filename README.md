@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineering Student • Algorithm Enthusiast • AI Explorer</h3>
 
 <p align="center">
-  📍 Novi Sad, Serbia · 💌 <a href="mailto:aleksandarpapic.ap@gmail.com">aleksandarpapic.ap@gmail.com</a> ·
+  📍 Novi Sad, Serbia · <a href="mailto:aleksandarpapic.ap@gmail.com">aleksandarpapic.ap@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/aleksandar-papi%C4%87/">LinkedIn</a> ·
   <a href="https://github.com/aleksandar-aleksandar">GitHub</a>
 </p>
@@ -16,7 +16,7 @@
 ### 🎓 Education
 - **Faculty of Technical Sciences, University of Novi Sad** — *BSc in Software Engineering* (2023–2027)  
   *Courses:* Algorithms & Data Structures, OOP, Databases, Parallel Programming, Web Development  
-- **Gymnasium “Jovan Jovanović Zmaj”** — *Gifted Program in Computer Science* (2019–2023)
+- **Gymnasium “Jovan Jovanović Zmaj”** — *Computer Science* (2019–2023)
 
 ---
 
