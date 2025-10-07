@@ -19,7 +19,7 @@
 ---
 
 ### 🧩 Projects
-- 🗄️ [**Key-Value Database Engine**](https://github.com/IgorAmi52/NoSQL-Engine) — Distributed NoSQL engine with LSM-trees, WAL, and probabilistic structures (HyperLogLog, Bloom Filter).
+- 🗄️ [**Key-Value Database Engine**](https://github.com/IgorAmi52/NoSQL-Engine) — Distributed NoSQL engine with LSM-trees, WAL, and probabilistic structures.
 - 🧬 [**Travelling Salesman Solver**](https://github.com/aleksandar-aleksandar/) — Genetic Algorithm for TSP optimization.
 - 🧱 [**Parallel Webscraper**](https://github.com/aleksandar-aleksandar/TBB-Parallel-Web-Scraper) — Multithreaded web data scraper in C++ using concurrency primitives.
 - 🧩 [**Maze Game**](https://github.com/aleksandar-aleksandar/Minotaur-Maze-Game) — OOP console game with dynamic AI Minotaur and power-ups.
