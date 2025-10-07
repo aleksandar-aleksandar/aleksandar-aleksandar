@@ -55,7 +55,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandar-aleksandar&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-aleksandar&layout=compact&theme=tokyonight" alt="languages" height="180"/>
 </p>
 
