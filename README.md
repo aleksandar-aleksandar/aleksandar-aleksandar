@@ -14,8 +14,7 @@
 ---
 
 ### 🎓 Education
-- **Faculty of Technical Sciences, University of Novi Sad** — *BSc in Software Engineering* (2023–2027)  
-  *Courses:* Algorithms & Data Structures, OOP, Databases, Parallel Programming, Web Development  
+- **Faculty of Technical Sciences, University of Novi Sad** — *BSc in Software Engineering* (2023–2027)    
 - **Gymnasium “Jovan Jovanović Zmaj”** — *Computer Science* (2019–2023)
 
 ---
