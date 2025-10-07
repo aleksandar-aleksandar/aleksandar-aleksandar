@@ -27,11 +27,6 @@
 
 ---
 
-### 📄 My CV
-📥 [View PDF CV](https://github.com/aleksandar-aleksandar/aleksandar-aleksandar/blob/main/AleksandarPapic_CV.pdf)
-
----
-
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-papi%C4%87-066474343/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aleksandar-aleksandar)
