@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVkdGFoaXM2Z2RiangwMGtqd3MzenM2bTZ6NnMzdHR6czBlNjJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" alt="Header Animation">
-</p>
-
 <h1 align="center">👋 Hi, I'm Aleksandar Papić</h1>
 <h3 align="center">Software Engineering Student • Algorithm Enthusiast • AI Explorer</h3>
 
