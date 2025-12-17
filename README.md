@@ -55,24 +55,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleksandar-aleksandar&theme=onedark&row=1&column=6" alt="trophies"/>
-</p>
-
----
-
-### 💬 Quote of the Day
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — *Harold Abelson*
-
----
-
-### 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
 <p align="center">
   <i>“Exploring how systems work under the hood — from low-level optimization to AI intelligence.”</i>
 </p>
