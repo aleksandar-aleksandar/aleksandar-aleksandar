@@ -18,7 +18,7 @@ Full-stack **ride-hailing system** built in a team of 3:
 * Built ride estimation, tracking, cancel, stop, and panic flows, plus ride history
 * Wrote service, repository, and integration tests, plus **Selenium** end-to-end tests
 
-### ☁️ AWS Medallion Data Pipeline — *Python / Terraform / AWS*
+### ☁️ [AWS Medallion Data Pipeline](https://github.com/aleksandar-aleksandar/aws-medallion-pipeline) — *Python / Terraform / AWS*
 
 Solo-built **serverless data pipeline** for Hacker News and X data:
 
